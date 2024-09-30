@@ -14,7 +14,7 @@ This repository contains a Progressive Web Application (PWA) that showcases key 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/rhythemsharma7210/PWA-.git
+    git clone https://github.com/Sg714274/PWA_SDE_Miniproject
     ```
 2. Navigate to the project directory.
 3. Install dependencies:
